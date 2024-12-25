@@ -2,7 +2,7 @@
     <x-auth-card>
         管理者用
         <x-slot name="logo">
-            <div class="w-10">
+            <div class="w-5">
             <a href="/">
                 <x-application-logo class="w-5 h-5 fill-current text-red-300" />
             </a>
